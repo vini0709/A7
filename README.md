@@ -1,7 +1,7 @@
 # A7
 
 
-Name : Vinishaben Patel ID# : 01367795 A7 : Using the jQuery Validation Plugin with Dynamic Table
+Name : Vinishaben Patel  A7 : Using the jQuery Validation Plugin with Dynamic Table
 
 GitHub URL: https://vini0709.github.io/A7/multiplication.html
 
